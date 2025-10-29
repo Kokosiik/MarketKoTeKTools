@@ -1,9 +1,9 @@
 {
-  "id": "assebly1",
-  "name": "deagle",
-  "description": "Стильный deagle",
+  "id": "assembly1",
+  "name": "Deagle",
+  "description": "Стильный Deagle", 
   "author": "KoTeK",
   "compatibility": "Nonerai/Neizzir/EXC",
-  "files": "name": "assembly.zip",
-  "prew": "preview.png",
+  "file": "assembly.zip",
+  "preview": "preview.png"
 }
