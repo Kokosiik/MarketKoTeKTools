@@ -1,0 +1,17 @@
+{
+  "skins": [
+    
+    {
+      "id": "assebly1",
+      "name": "deagle",
+      "description": "Стильный deagle",
+      "author": "KoTeK",
+      "preview_url": "https://raw.githubusercontent.com/Kokosiik/MarketKoTeKTools/skins/name/preview.png",
+      "download_url": "https://github.com/Kokosiik/MarketKoTeKTools/skins/name/assembly.zip",
+      "file_size": "n мб",
+      "compatibility": "Nonerai/Neizzir/EXC",
+      "category": "assebly/guns/skin",
+      "tags": ["gun", "deagle", "night"]
+    }
+  ]
+}
