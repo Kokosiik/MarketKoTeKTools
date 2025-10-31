@@ -2,16 +2,55 @@
   "skins": [
     
     {
-      "id": "assebly1",
-      "name": "deagle",
-      "description": "Стильный deagle",
+      "id": "skins-melon-man",
+      "name": "melon man",
+      "description": "Скин арбузного мучины",
       "author": "KoTeK",
-      "preview_url": "https://raw.githubusercontent.com/Kokosiik/MarketKoTeKTools/skins/name/preview.png",
-      "download_url": "https://github.com/Kokosiik/MarketKoTeKTools/skins/name/assembly.zip",
-      "file_size": "n мб",
+      "preview_url": "https://raw.githubusercontent.com/Kokosiik/MarketKoTeKTools/main/KoTeK/skins/melon man/preview.png",
+      "download_url": "https://github.com/Kokosiik/MarketKoTeKTools/main/KoTeK/skins/melon man/assembly.zip",
+      "file_size": "10.3мб",
       "compatibility": "Nonerai/Neizzir/EXC",
-      "category": "assebly/guns/skin",
-      "tags": ["gun", "deagle", "night"]
+      "category": "skin",
+      "tags": ["skin", "melon", "good"]
+    },
+
+    {
+      "id": "assebly-green-eak",
+      "name": "green eak",
+      "description": "Сборка зеленой акации",
+      "author": "KoTeK",
+      "preview_url": "https://raw.githubusercontent.com/Kokosiik/MarketKoTeKTools/main/KoTeK/assembly/green eak/preview.png",
+      "download_url": "https://github.com/Kokosiik/MarketKoTeKTools/main/KoTeK/skins/green eak/assembly.zip",
+      "file_size": "45.7мб",
+      "compatibility": "Nonerai/Neizzir/EXC",
+      "category": "assembly",
+      "tags": ["green", "wood", "eak"]
+    },
+
+    {
+      "id": "guns-guns-chees",
+      "name": "chees deagle",
+      "description": "Дигл в виде сыра",
+      "author": "KoTeK",
+      "preview_url": "https://raw.githubusercontent.com/Kokosiik/MarketKoTeKTools/main/KoTeK/guns/chees deagle/preview.png",
+      "download_url": "https://github.com/Kokosiik/MarketKoTeKTools/main/KoTeK/guns/chees deagle/assembly.zip",
+      "file_size": "8.5мб",
+      "compatibility": "Nonerai/Neizzir/EXC",
+      "category": "guns",
+      "tags": ["chees", "deagle"]
+    },
+
+    {
+      "id": "other-ladder-factory",
+      "name": "ladder factory",
+      "description": "Лестница на крышу завода",
+      "author": "KoTeK",
+      "preview_url": "https://raw.githubusercontent.com/Kokosiik/MarketKoTeKTools/main/KoTeK/other/ladder factory/preview.png",
+      "download_url": "https://github.com/Kokosiik/MarketKoTeKTools/main/KoTeK/other/ladder factory/assembly.zip",
+      "file_size": "2.3мб",
+      "compatibility": "Nonerai/Neizzir/EXC",
+      "category": "other",
+      "tags": ["ladder", "factory"]
     }
   ]
 }
