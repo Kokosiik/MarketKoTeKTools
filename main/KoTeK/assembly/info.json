@@ -1,0 +1,9 @@
+{
+  "id": "assembly1",
+  "name": "yellow",
+  "description": "Стильный цветок", 
+  "author": "KoTeK",
+  "compatibility": "Nonerai/Neizzir/EXC",
+  "file": "assembly.zip",
+  "preview": "preview.png"
+}
